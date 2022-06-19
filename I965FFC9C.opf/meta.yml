@@ -1,0 +1,38 @@
+id: I965FFC9C
+source: https://sakyaresearch.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-19T09:36:52.288829'
+last_modified: '2022-06-19T09:36:52.288842'
+parser: null
+source_metadata:
+  title: Hagiography of Zhwa lu mkhan chen Rin chen bsod nams mchog grub (1602–1681);
+    Lamdre Lobshe, vol. ca, title no. 1
+  author: ngag dbang blo bzang brgya mtsho/
+  description: 'Digital version 2.0 {Wylie}; WYLIE COPY of master xml (completed:
+    2013-09-04); unrevised, no thematic TEI markup'
+  file_info:
+  - 'Language: Wylie'
+  - 'Coverage: Full Text'
+  - 'Accessible: publicly'
+  responibilities:
+  - Digital edition:Sakya Research Centre (src)
+  - Text input:rdzong sar khams bye'i lnga rig slob gling / sde dge rdzong sar/ (dzkj)
+  - Editorial process:Mathias Fermer (mf), kun dga' rdo rje/ (Kathmandu) (kun)
+  - TEI Encoding:Sakya Research Centre
+  - TEI Markup:-
+  - Revisions/Corrections:-
+  text_witnesses: https://sakyaresearch.org/sources/573
+  bases:
+    507e:
+      title: Hagiography of Zhwa lu mkhan chen Rin chen bsod nams mchog grub (1602–1681);
+        Lamdre Lobshe, vol. ca, title no. 1
+      order: 1
+      base_file: 507e.txt
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
